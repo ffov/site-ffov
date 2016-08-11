@@ -16,7 +16,7 @@ msgstr ""
 
 msgid "gluon-config-mode:pubkey"
 msgstr ""
-"<p>Dies ist der öffentliche Schlüssel deines Freifunkknotens. Wir würden uns freuen wenn Du uns eine kurze E-Mail mit dem Schlüssel und Namen schicken könntest. Dadurch können wir Dich direkt kontaktieren wenn es Probleme mit deinem Knoten (<em><%=hostname%></em>) gibt. Schick die E-Mail bitte an <a href='mailto:info@freifunk-emscherland.de.de?subject=Neuer%20Freifunkknoten&body=%23%20<%=hostname%>%0akey%20%22<%=pubkey%>%22%3b'>info@freifunk-emscherland.de</a>.</p>"
+"<p>Dies ist der öffentliche Schlüssel deines Freifunkknotens. Wir würden uns freuen wenn Du uns eine kurze E-Mail mit dem Schlüssel und Namen schicken könntest. Dadurch können wir Dich direkt kontaktieren wenn es Probleme mit deinem Knoten (<em><%=hostname%></em>) gibt. Schick die E-Mail bitte an <a href='mailto:info@freifunk-emscherland.de?subject=Neuer%20Freifunkknoten&body=%23%20<%=hostname%>%0akey%20%22<%=pubkey%>%22%3b'>info@freifunk-emscherland.de</a>.</p>"
 "<div class=\"the-key\">"
 " # <%= hostname %>"
 " <br/>"
