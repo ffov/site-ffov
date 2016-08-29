@@ -1,5 +1,5 @@
 
-Gluon Version für Freifunk Münsterland
+Gluon Version für Freifunk Emscherland Domäne 03 - Dorsten/Marl
 
 Der vollständige Build wird durch das Script build.sh ausgeführt. 
 Eine Signierung der Images muss anschließend mit sign.sh erfolgen. 
