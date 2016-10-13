@@ -22,13 +22,14 @@ GLUON_SITE_PACKAGES := \
 	gluon-radvd \
 	gluon-setup-mode \
 	gluon-status-page \
-	gluon-authorized-keys \
 	haveged \
 	iptables \
 	gluon-tunneldigger-watchdog \
 	gluon-migrate-vpn \
-	iwinfo
-	 
+	iwinfo \
+	gluon-ssid-changer \
+	gluon-config-mode-show-mac \
+	gluon-rfkill-disable
 
 GLUON_PRIORITY ?= 3
 GLUON_LANGS ?= en de
