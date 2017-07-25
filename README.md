@@ -1,5 +1,5 @@
 
-Gluon Version für Freifunk Emscherland Domäne 08
+Gluon Version für Freifunk Ostvest Domäne 08 Spezialprojekte
 
 Der vollständige Build wird durch das Script build.sh ausgeführt. 
 Eine Signierung der Images muss anschließend mit sign.sh erfolgen. 
