@@ -1,5 +1,5 @@
 
-Gluon Version für Freifunk Emscherland Domäne 02 - Gladbeck/Bottrop
+Gluon Version für Freifunk Ostvest Domäne 02 - Waltrop
 
 Der vollständige Build wird durch das Script build.sh ausgeführt. 
 Eine Signierung der Images muss anschließend mit sign.sh erfolgen. 
