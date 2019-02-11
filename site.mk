@@ -39,7 +39,7 @@ GLUON_SITE_PACKAGES := haveged iwinfo iptables
 #			opkg compare-versions "$1" '>>' "$2"
 #		to decide if a version is newer or not.
 
-DEFAULT_GLUON_RELEASE := 2018.1+exp$(shell date '+%Y%m%d')
+DEFAULT_GLUON_RELEASE := 2018.2+exp$(shell date '+%Y%m%d')
 
 # Variables set with ?= can be overwritten from the command line
 
@@ -49,6 +49,10 @@ DEFAULT_GLUON_RELEASE := 2018.1+exp$(shell date '+%Y%m%d')
 #			$ make images GLUON_RELEASE=23.42+5
 #		would generate images named like this:
 #			gluon-ff%site_code%-23.42+5-%router_model%.bin
+
+GLUON_ATH10K_MESH ?= 11s
+
+GLUON_WLAN_MESH ?= 11s
 
 GLUON_RELEASE ?= $(DEFAULT_GLUON_RELEASE)
 
